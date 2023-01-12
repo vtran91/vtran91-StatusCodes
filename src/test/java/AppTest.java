@@ -1,11 +1,11 @@
-package com.revature;
+
 
 import org.junit.After;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
 
-import com.revature.util.CommandLine;
+import util.CommandLine;
 
 import io.javalin.Javalin;
 

@@ -1,4 +1,4 @@
-package com.revature;
+
 
 import io.javalin.Javalin;
 
@@ -15,7 +15,7 @@ public class JavalinSingleton {
         app.get("/client-side-err", ctx -> {
         
             //write logic here
-
+            
         });
 
         return app;
